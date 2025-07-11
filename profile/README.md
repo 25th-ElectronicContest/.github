@@ -7,8 +7,8 @@
 ## 仓库结构
 
 ~~~ bash
-Hardware		# 硬件文件存储仓库
-Software		# 软件代码存储仓库
+Hardware    # 硬件文件存储仓库
+Software    # 软件代码存储仓库
 Vision      # 上位机视觉代码存储仓库
 ~~~
 
